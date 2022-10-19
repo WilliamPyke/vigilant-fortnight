@@ -1,3 +1,3 @@
 def foo(bar):
-    return bar + 1
+    return bar + 3
 
